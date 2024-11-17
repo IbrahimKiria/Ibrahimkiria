@@ -4,7 +4,7 @@
 
 **🔎 About Me:**
 
-Experienced Finance Assistant with three years of specialized experience in a dynamic finance environment, supporting management accountants. Renowned for exceptional numerical accuracy, meticulous data management, and a deep understanding of accounting principles, including IFRS, budgeting, forecasting, and financial analysis.
+Experienced Finance Expert with three years of specialized experience in a dynamic finance environment, supporting management accountants. Renowned for exceptional numerical accuracy, meticulous data management, and a deep understanding of accounting principles, including IFRS, budgeting, forecasting, and financial analysis.
 
 **💻 Technical Skills:**
 
