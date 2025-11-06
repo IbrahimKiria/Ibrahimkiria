@@ -1,35 +1,42 @@
-### Hi there 👋, I’m Ibrahim Kiria
+🔎 About Me
 
----
+I’m a Finance Expert and Data Science Enthusiast with over three years of hands-on experience supporting management accountants in fast-paced financial environments. I bring a strong foundation in IFRS, budgeting, forecasting, and financial analysis, backed by a passion for turning data into actionable business insights.
 
-**🔎 About Me:**
+Renowned for numerical accuracy, data integrity, and analytical thinking, I bridge the gap between finance and technology to drive smarter decision-making.
 
-Experienced Finance Expert with three years of specialized experience in a dynamic finance environment, supporting management accountants. Renowned for exceptional numerical accuracy, meticulous data management, and a deep understanding of accounting principles, including IFRS, budgeting, forecasting, and financial analysis.
+💻 Technical Skills
 
-**💻 Technical Skills:**
+Programming: Python, SQL
+Data Science & Visualization: Power BI, Excel
+Financial Expertise: IFRS, Budgeting, Forecasting, Financial Analysis
+Tools: Microsoft Office Suite, QuickBooks, SAP, NetSuite
 
-- **Programming:** Python, SQL
-- **Data Science & Visualization:** Power BI, Excel
-- **Financial Expertise:** IFRS, budgeting, forecasting, financial analysis
-- **Tools:** Microsoft Office Suite, QuickBooks, SAP, NetSuite
+🚀 Current Focus
 
-**🚀 Current Focus:**
+Enhancing my expertise in advanced financial modeling and predictive analytics
 
-- Enhancing my skills in advanced financial modeling and predictive analytics.
-- Exploring machine learning techniques for financial forecasting.
+Exploring machine learning applications in financial forecasting and risk management
 
-**🌟 What I'm Looking For:**
+Building data-driven tools to support investment and performance analysis
 
-Opportunities to collaborate on projects related to finance, data science, and business intelligence. I’m keen to contribute to open-source projects and connect with like-minded professionals.
+🌟 Collaboration Interests
 
-**📬 How to Reach Me:**
+I’m open to collaborating on projects related to:
 
-- [Email](mailto:ibrahimkiria1@example.com)
+Financial analysis and modeling
 
-**😄 Pronouns:** He/Him
+Business intelligence and data visualization
 
-**⚡ Fun Fact:** I’m passionate about history and often delve into ancient civilizations in my spare time!
+Machine learning in finance
 
----
+Open-source data-driven research
 
-Feel free to connect or check out my repositories below!
+📬 Get in Touch
+
+📧 Email: ibrahimkiria1@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact
+
+When I’m not analyzing data or financial models, I love exploring world history — especially the stories and lessons from ancient civilizations.
